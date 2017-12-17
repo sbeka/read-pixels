@@ -1,0 +1,38 @@
+html, body {
+    height: 100%;
+}
+
+.content {
+	max-width: 500px;
+	padding-top: 30px;
+}
+
+.image {
+	max-width: 100%;
+}
+
+.img-item {
+	text-align: center;
+}
+
+.myChart {
+	text-align: center;
+	width: 300px;
+	margin: 0 auto;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -60px;
+    padding: 0 0 60px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+	text-align: center;
+	font-size: small;
+}
